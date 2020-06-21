@@ -97,7 +97,7 @@ address = {street = "100 Daxue East Road", city = "Nanning", region = "Guangxi",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
- coordinates = {latitude = "22.842755", longitude = "108.29551"}
+ coordinates = {latitude = "22.842722", longitude = "108.295596"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
