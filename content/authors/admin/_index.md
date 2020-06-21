@@ -10,36 +10,43 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MSng candidate of electric engineering
 
 # Organizations/Affiliations
 organizations:
 - name: Guangxi University
-  url: "https://www.gxu.edu.cn/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, machine learning and transformer fault diagnosis.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
+- Data Analysis
 - Fault Diagnosis
-- Electric Load Forecasting
 
 education:
   courses:
   - course: MEng in Electric Engineering
-    institution: Guangxi University
+    institution: Institute of Electric Engineering
     year: 2019-now
   - course: BSc in Energy and Power Engineering
-    institution: North China Electric Power University
+    institution: Institute of Energy and mechanism
     year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-
+social:
+- icon: envelope
+  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sometimesstudy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Yuxuan Wang is a student of electric engineering at the high voltage and AI Lab. His research interests include machine learning, deep learning and transformer fault diagnosis.
+Yuxuan Wang is a student of electric engineering at the Guangxi Univerisity. His research interests include deep learning, machine learning and transformer fault diagnosis.
