@@ -15,7 +15,7 @@ role: MSng candidate of electric engineering
 # Organizations/Affiliations
 organizations:
 - name: Guangxi University
-  url: ""
+  url: "https://www.gxu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,7 +31,7 @@ education:
     institution: Institute of Electric Engineering
     year: 2019-now
   - course: BSc in Energy and Power Engineering
-    institution: Institute of Energy and mechanism
+    institution: Institute of Energy Power and Mechanism
     year: 2015-2019
 
 # Social/Academic Networking
@@ -41,6 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+  link: 1428409697@qq.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
