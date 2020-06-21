@@ -41,7 +41,6 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 1428409697@qq.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
