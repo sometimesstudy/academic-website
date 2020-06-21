@@ -22,7 +22,7 @@ bio: My research interests include deep learning, machine learning and transform
 
 interests:
 - Artificial Intelligence
-- Programming
+- Fault Diagnosis
 - Electric Load Forecasting
 
 education:
@@ -56,4 +56,4 @@ user_groups:
 - Visitors
 ---
 
-Yuxuan Wang is a student of electric engineering at the high volicity and high voltage and AI Lab. His supervisor is Yiyi Zhang. His research interests include machine learning, deep learning and transformer fault diagnosis.
+Yuxuan Wang is a student of electric engineering at the high voltage and AI Lab. His research interests include machine learning, deep learning and transformer fault diagnosis.
